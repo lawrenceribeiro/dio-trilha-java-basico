@@ -1,6 +1,4 @@
-# dio-trilha-java-basico
-
-# Diagrama UML - iPhone
+# Desafio: Diagramação de Classes do iPhone
 
 ```mermaid
 classDiagram
