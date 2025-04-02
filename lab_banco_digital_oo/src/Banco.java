@@ -8,6 +8,7 @@ import lombok.Setter;
 public class Banco {
 	   @Getter
 	    private String nome;
+	   
 	    
 	    @Getter
 	    private List<Conta> contas;
